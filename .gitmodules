@@ -7,3 +7,6 @@
 [submodule "DZ2/Alex"]
 	path = DZ2/Alex
 	url = https://github.com/mgkk6/OAP_ZADACHI
+[submodule "DZ3/fem"]
+	path = DZ3/fem
+	url = https://github.com/StudLabs/fem
