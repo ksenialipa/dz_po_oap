@@ -4,3 +4,6 @@
 [submodule "DZ2/Arina"]
 	path = DZ2/Arina
 	url = https://github.com/25timezone/OAP
+[submodule "DZ2/Alex"]
+	path = DZ2/Alex
+	url = https://github.com/mgkk6/OAP_ZADACHI
